@@ -1,0 +1,54 @@
+.about {
+    background-color: aqua;
+    margin: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: solid;
+    height: 70px;
+    width: 120px;
+}
+.contact {
+    background-color: tomato;
+    margin: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: solid;
+    height: 70px;
+    width: 120px;
+}
+.news {
+    background-color: violet;
+    margin: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: solid;
+    height: 70px;
+    width: 120px;
+
+}
+.home {
+    background-color: wheat;
+    margin: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: solid;
+    height: 70px;
+    width: 120px;
+}
+.header {
+    align-items: center;
+    background-color: rgb(60, 182, 182);
+}
+.kk {
+    width:30%;  
+    display:inline-block;
+  }
+  .zz {
+      align-items: center;
+      background-color: darkgrey;
+  }
+  .yy {
+      align-items: center;
+      background-color: goldenrod;
+  }
+
